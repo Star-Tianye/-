@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MazeGame">
+        <file>image/start.jpg</file>
+        <file>image/game.jpg</file>
+    </qresource>
+</RCC>
